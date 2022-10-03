@@ -1,8 +1,8 @@
 
 import React from 'react'
 import { Message, Icon, } from 'semantic-ui-react'
-import logo from '/Users/aiswaryaspillai/Desktop/my-app/src/image/Google-QR.png';
-import nlqrocde from '/Users/aiswaryaspillai/Desktop/my-app/src/image/NL-QRCode.png';
+import logo from '/Users/aiswaryaspillai/Desktop/my-app/src/Google-QR.png';
+import nlqrocde from '/Users/aiswaryaspillai/Desktop/my-app/src/NL-QRCode.png';
 const design = () => (
 
 
